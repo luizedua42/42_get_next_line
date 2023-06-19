@@ -1,9 +1,10 @@
 <div align = center>
 
 # 42get_next_line
+</div>
+
 [![norminette](https://github.com/luizedua42/42get_next_line/actions/workflows/norminette.yml/badge.svg)](https://github.com/luizedua42/42get_next_line/actions/workflows/norminette.yml)
 
-</div>
 
 ## 42's second project as a cadet, read a line of a fd.
 
