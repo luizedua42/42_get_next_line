@@ -1,3 +1,4 @@
+[![norminette](https://github.com/luizedua42/42get_next_line/actions/workflows/norminette.yml/badge.svg)](https://github.com/luizedua42/42get_next_line/actions/workflows/norminette.yml)
 <div align = center>
 
 # 42get_next_line
