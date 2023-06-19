@@ -6,7 +6,7 @@
 
 ## 42's second project as a cadet, read a line of a fd.
 
-![Alt text](.github/Screenshot%20from%202023-06-18%2023-37-08.png)
+![Alt text](.github/Screenshot%20from%202023-06-18%2023-47-33.png)
 
 <div align = center>
 
